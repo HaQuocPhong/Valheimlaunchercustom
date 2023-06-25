@@ -1,7 +1,6 @@
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\bin\Debug\ValheimLauncher.exe.config
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\bin\Debug\ValheimLauncher.exe
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\bin\Debug\ValheimLauncher.pdb
-D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.Form1.resources
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.Properties.Resources.resources
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.csproj.GenerateResource.cache
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.csproj.CoreCompileInputs.cache
@@ -9,7 +8,6 @@ D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.e
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.pdb
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\bin\Debug\FontAwesome.Sharp.dll
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.csproj.CopyComplete
-D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.Form2.resources
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\bin\Debug\FluentFTP.dll
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\bin\Debug\SharpCompress.dll
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\bin\Debug\System.Buffers.dll
@@ -28,3 +26,5 @@ D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\bin\Debug\ValheimLauncher.e
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\bin\Debug\ValheimLauncher.application
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.application
 D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.csproj.AssemblyReference.cache
+D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.main.resources
+D:\Documents\WinForm\ValheimLauncher\ValheimLauncher\obj\Debug\ValheimLauncher.choosePath.resources
